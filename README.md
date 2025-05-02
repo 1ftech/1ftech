@@ -1,4 +1,4 @@
-<h3 align="left">Hi 👋! <br>My name is Iftekhar and I'm a AI & Automation Enthusiast, from Berlin, Germany. Additionally, I have a background in Artificial Intelligence, Machine Learning, and process Automation, I build intelligent systems that drive efficiency and innovation. I’m passionate about exploring the intersection of data, algorithms, and real-world applications—especially in deploying smart, scalable solutions. I am actively looking for open poistions. Feel free to reach out.</h3>
+<h3 align="left">Hi 👋 <br>My name is Iftekhar and I'm a AI & Automation Enthusiast, from Berlin, Germany. Additionally, I have a background in Artificial Intelligence, Machine Learning, and process Automation, I build intelligent systems that drive efficiency and innovation. I’m passionate about exploring the intersection of data, algorithms, and real-world applications—especially in deploying smart, scalable solutions. I am actively looking for open poistions. Feel free to reach out.</h3>
 
 ###
 
